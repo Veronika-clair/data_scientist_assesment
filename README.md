@@ -10,7 +10,7 @@ Your task is to build a model that predicts whether a user is likely to default 
 
 As a **bonus**, you may also propose a method for estimating the **maximum safe advance amount** per user/request to help further reduce potential losses.
 
-This assessment is intended to take approximately 3–4 hours. We are not expecting a perfect solution — our goal is to evaluate your **approach to modeling, feature engineering, and business-oriented decision-making**. A model ROC AUC of 0.65 is completely acceptable.
+This assessment is intended to take approximately 3–4 hours. We are not expecting a perfect solution — our goal is to evaluate your **approach to modeling, feature engineering, sampling, and business-oriented decision-making**. A model ROC AUC of 0.65 is completely acceptable.
 
 ### **Dataset**
 
