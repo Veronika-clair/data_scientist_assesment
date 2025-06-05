@@ -56,10 +56,10 @@ Build a classification model to predict `DEFAULT_FLAG`.
 
 Write a brief document that could be shared with **non-technical stakeholders** to explain:
 
-* How the model works (in plain language)
-* How the model supports more responsible lending decisions
+* How the model works
+* How the model supports lending decisions
 * The expected business benefits (e.g., loss reduction, improved user targeting)
-* (Bonus) How your method can estimate a safe loan amount per user
+* (Bonus) How can your method estimate a safe loan amount per user
 
 ---
 
@@ -67,7 +67,7 @@ Write a brief document that could be shared with **non-technical stakeholders** 
 
 Please submit the following:
 
-* 📓 A **Jupyter Notebook** with your full modeling process, code, and commentary (we do not expect a production ready model from you for this assessment. However, it is required for your work) 
+* 📓 A **Jupyter Notebook** with your full modeling process, code, and commentary (we do not expect a production-ready model from you for this assessment; however, it is required for your work) 
 * 📄 A short **stakeholder-facing document** summarizing the model and its business value
 
 Let us know if you have any issues accessing the database or need clarification on the task. Good luck—we’re excited to see your approach!
